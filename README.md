@@ -1,5 +1,6 @@
 # BasicoCSS
-_Aula básica sobre CSS_
+_Itálico_
+Não itálico
 
 # Tópico 1
 ## Tópico 2
